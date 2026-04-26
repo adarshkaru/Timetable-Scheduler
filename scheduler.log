@@ -97115,3 +97115,3191 @@ Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Not Found: /favicon.ico
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 1st Year (ID: 11)
+🔷 Scheduling Order: 4 LABs → 0 ELECTIVEs → 4 TP courses → 2 regular THEORY
+  ====> Processing LAB course: 23IT4212
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4212 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr.KSN Murthy
+    Lab room: lab 2
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 15 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4212 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.B.Satya Narayana
+    Lab room: lab 2
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 14 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4212 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Ms.I.Sahithi
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 15 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23ME3205
+    ====> Section 1
+  Scheduling REGULAR LAB 23ME3205 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr.J.V Bhanu Tej
+    Lab room: CAD lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 14 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23ME3205 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Dr.M.Prasanth Kumar
+    Lab room: CAD lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 12 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23ME3205 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr.R.D..V.Prasad
+    Lab room: CAD lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 12 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23PY1102
+    ====> Section 1
+  Scheduling REGULAR LAB 23PY1102 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr.L.Santhosh Kumar
+    Lab room: Phy lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23PY1102 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.N.Srinivas Rao
+    Lab room: Phy lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23PY1102 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr.G.Swathi
+    Lab room: Phy lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 10 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23IT41112
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT41112 (Sec 1): 1 blocks of 2hr each
+    Main instructor: Mr.A.Durga Praveen
+    Lab room: lab 1
+    Found 25 continuous 2-hour blocks total
+    After conflict checking: 18 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT41112 (Sec 2): 1 blocks of 2hr each
+    Main instructor: Ms.M.Sireesha
+    Lab room: sales force lab
+    Found 25 continuous 2-hour blocks total
+    After conflict checking: 16 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT41112 (Sec 3): 1 blocks of 2hr each
+    Main instructor: Ms.M.Sireesha
+    Lab room: lab 2
+    Found 25 continuous 2-hour blocks total
+    After conflict checking: 12 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing TP course: 23EC3103
+      23EC3103 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec1: Successfully scheduled all 4 hours
+      23EC3103 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec2: Successfully scheduled all 4 hours
+      23EC3103 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4111
+      23IT4111 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4111 Sec1: Successfully scheduled all 4 hours
+      23IT4111 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4111 Sec2: Successfully scheduled all 4 hours
+      23IT4111 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Wednesday: 2 period(s)
+    23IT4111 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23MA1102
+      23MA1102 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 2 period(s)
+        Thursday: 1 period(s)
+    23MA1102 Sec1: Successfully scheduled all 4 hours
+      23MA1102 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23MA1102 Sec2: Successfully scheduled all 4 hours
+      23MA1102 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23MA1102 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23PY1101
+      23PY1101 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23PY1101 Sec1: Successfully scheduled all 4 hours
+      23PY1101 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Friday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Friday: 2 period(s)
+    23PY1101 Sec2: Successfully scheduled all 4 hours
+      23PY1101 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 2 period(s)
+        Friday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Thursday: 2 period(s)
+        Friday: 2 period(s)
+    23PY1101 Sec3: Successfully scheduled all 4 hours
+      23MC0102 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec1: Successfully scheduled all 3 hours
+      23MC0102 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling completed 2/3 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+      🔧🔧 GAP-FILLING PHASE 2 (ULTRA-RELAXED): 1 hours still missing, ignoring consecutive constraint but respecting day limit
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec2: Only scheduled 2/3 hours (INCOMPLETE)
+⚠ REGULAR THEORY 23MC0102 Sec2 failed - will retry in gap-filling
+      23MC0102 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling completed 2/3 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+      🔧🔧 GAP-FILLING PHASE 2 (ULTRA-RELAXED): 1 hours still missing, ignoring consecutive constraint but respecting day limit
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec3: Only scheduled 2/3 hours (INCOMPLETE)
+⚠ REGULAR THEORY 23MC0102 Sec3 failed - will retry in gap-filling
+      23IT4112 Sec1: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4112 Sec1: Successfully scheduled all 2 hours
+      23IT4112 Sec2: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4112 Sec2: Successfully scheduled all 2 hours
+      23IT4112 Sec3: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4112 Sec3: Successfully scheduled all 2 hours
+🔧 GAP-FILLING: Attempting to schedule 2 failed theory courses
+  🔧 RELAXED SCHEDULING: 23MC0102 Sec2 - filling ANY available slots
+  ✓ RELAXED: Successfully scheduled all 3 hours
+✓ Gap-filled THEORY 23MC0102 Sec2
+  🔧 RELAXED SCHEDULING: 23MC0102 Sec3 - filling ANY available slots
+  ✓ RELAXED: Successfully scheduled all 3 hours
+✓ Gap-filled THEORY 23MC0102 Sec3
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  Found 3 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+    [OK] Library Sec 1: 1hr
+    [OK] Library Sec 2: 1hr
+    [OK] Library Sec 3: 1hr
+    [OK] Sports Sec 1: 1hr
+    [OK] Sports Sec 2: 1hr
+    [OK] Sports Sec 3: 1hr
+  Special periods: 9/9 scheduled successfully
+✅ Successfully scheduled 109 classes
+🔷 Scheduling Order: 4 LABs → 0 ELECTIVEs → 3 TP courses → 6 regular THEORY
+  ====> Processing LAB course: 23IT4218
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4218 (Sec 1): 1 blocks of 4hr each
+    Main instructor: Mrs.Hari Priyanka
+    Lab room: lab 2
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 3 valid blocks available
+    Auto-selected 2 evaluators: ['Ms B keerthana', 'Mr.A.Ravi Kishore']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4218 (Sec 2): 1 blocks of 4hr each
+    Main instructor: Mrs.V.Alekya
+    Lab room: lab 1
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Ms B keerthana', 'Ms ch Anusha']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4218 (Sec 3): 1 blocks of 4hr each
+    Main instructor: Mrs G Vijaya Laxmi
+    Lab room: lab 2
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 2 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.Hima Bindu', 'Mr.A.Durga Praveen']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4215
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4215 (Sec 1): 1 blocks of 3hr each
+    Main instructor: MrsV Krishna sameera
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.V.Alekya', 'Mrs.P.Naveena']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4215 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.Reddi Prasadu
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 11 valid blocks available
+    Auto-selected 2 evaluators: ['Mr N Chaitanya Kumar', 'Mrs.Hima Bindu']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4215 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.D.satya sowjanya
+    Lab room: lab3
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Auto-selected 2 evaluators: ['Mr N Chaitanya Kumar', 'Ms B keerthana']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4216
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4216 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr P saritha Hepsibha
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 11 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.D Tejaswi', 'Mr M V Kishore']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4216 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Dr ch suneetha
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 10 valid blocks available
+    Auto-selected 2 evaluators: ['Ms.B.Prameela', 'Mr.Reddi Prasadu']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4216 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Ms ch Anusha
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 8 valid blocks available
+    Auto-selected 2 evaluators: ['MrsV Krishna sameera', 'Ms B keerthana']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4217
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4217 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr M V Kishore
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.P.Naveena', 'Mr.B.Satya Narayana']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4217 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mrs.D Tejaswi
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 7 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.G.Ravindranath', 'Mrs G Vijaya Laxmi']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4217 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr ch suneetha
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 7 valid blocks available
+    Auto-selected 2 evaluators: ['Ms.M.Sireesha', 'adarsh']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing TP course: 23MA1107
+      23MA1107 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23MA1107 Sec1: Successfully scheduled all 4 hours
+      23MA1107 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23MA1107 Sec2: Successfully scheduled all 4 hours
+      23MA1107 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 2 period(s)
+        Wednesday: 1 period(s)
+    23MA1107 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23TP9102
+    23TP9102 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      11 conflict-free blocks available
+      [OK] Scheduling continuous block: Tuesday ['1:05 - 1:55', '1:55 - 2:45']
+    23TP9102 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      11 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['1:55 - 2:45', '2:45 - 3:35']
+    23TP9102 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      9 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['10:35 - 11:25', '11:25 - 12:15']
+  ====> Processing TP course: 23TP9103
+    23TP9103 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      10 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9103 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      9 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9103 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      8 conflict-free blocks available
+      [OK] Scheduling continuous block: Tuesday ['8:45 - 9:45', '9:45 - 10:35']
+      23IT4116 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4116 Sec1: Successfully scheduled all 3 hours
+      23IT4116 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4116 Sec2: Successfully scheduled all 3 hours
+      23IT4116 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4116 Sec3: Successfully scheduled all 3 hours
+      23IT4117 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec1: Successfully scheduled all 3 hours
+      23IT4117 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec2: Successfully scheduled all 3 hours
+      23IT4117 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec3: Successfully scheduled all 3 hours
+      23IT4119 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling completed 2/3 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+      🔧🔧 GAP-FILLING PHASE 2 (ULTRA-RELAXED): 1 hours still missing, ignoring consecutive constraint but respecting day limit
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec1: Only scheduled 2/3 hours (INCOMPLETE)
+⚠ REGULAR THEORY 23IT4119 Sec1 failed - will retry in gap-filling
+      23IT4119 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec2: Successfully scheduled all 3 hours
+      23IT4119 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec3: Successfully scheduled all 3 hours
+      23MC0104 Sec1: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0104 Sec1: Successfully scheduled all 2 hours
+      23MC0104 Sec2: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0104 Sec2: Successfully scheduled all 2 hours
+      23MC0104 Sec3: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23MC0104 Sec3: Successfully scheduled all 2 hours
+      23IT4118 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Wednesday: 1 period(s)
+    23IT4118 Sec1: Successfully scheduled all 1 hours
+      23IT4118 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT4118 Sec2: Successfully scheduled all 1 hours
+      23IT4118 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT4118 Sec3: Successfully scheduled all 1 hours
+      23IT9302 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Wednesday: 1 period(s)
+    23IT9302 Sec1: Successfully scheduled all 1 hours
+      23IT9302 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT9302 Sec2: Successfully scheduled all 1 hours
+      23IT9302 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9302 Sec3: Successfully scheduled all 1 hours
+🔧 GAP-FILLING: Attempting to schedule 1 failed theory courses
+  🔧 RELAXED SCHEDULING: 23IT4119 Sec1 - filling ANY available slots
+  ✓ RELAXED: Successfully scheduled all 3 hours
+✓ Gap-filled THEORY 23IT4119 Sec1
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  Found 1 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+  Special periods: 3/3 scheduled successfully
+✅ Successfully scheduled 185 classes
+🔷 Scheduling Order: 3 LABs → 2 ELECTIVEs → 6 TP courses → 1 regular THEORY
+  ====> Processing LAB course: 23IT4221
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4221 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs B sunayana
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Durga Praveen', 'Ms ch Anusha']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4221 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Prof.S.Ram prasad Reddy
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 8 valid blocks available
+    Auto-selected 2 evaluators: ['Ms ch Anusha', 'Mr.B.Satya Narayana']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4221 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.Hima Bindu
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 4 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.Reddi Prasadu', 'Mrs.P.Naveena']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4222
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4222 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr.P.Laxmi Kanth
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs G Vijaya Laxmi', 'MrsV Krishna sameera']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4222 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.G.Ravindranath
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 11 valid blocks available
+    Auto-selected 2 evaluators: ['Ms.M.Sireesha', 'Mr.Reddi Prasadu']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4222 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.M.swathi
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Ravi Kishore', 'Mrs G Vijaya Laxmi']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT5211
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT5211 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs.Hari Priyanka
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Ms ch Anusha', 'Ms.I.Sahithi']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT5211 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.KSN Murthy
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 4 valid blocks available
+    Auto-selected 2 evaluators: ['Ms B keerthana', 'Mr.A.Durga Praveen']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT5211 (Sec 3): 1 blocks of 3hr each
+    Main instructor: MrsV Krishna sameera
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 4 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.G.Ravindranath', 'Mrs G Vijaya Laxmi']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  Scheduling ELECTIVE 23IT5121: 4hrs using pre-allocated times
+    Falling back to dynamic scheduling...
+    Dynamic scheduling ELECTIVE 23IT5121: 4hrs
+  ✓ ELECTIVE 23IT5121: Successfully scheduled all 4 hours
+  Scheduling ELECTIVE 23IT5131: 4hrs using pre-allocated times
+    Falling back to dynamic scheduling...
+    Dynamic scheduling ELECTIVE 23IT5131: 4hrs
+  ✓ ELECTIVE 23IT5131: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4121
+      23IT4121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4121 Sec1: Successfully scheduled all 4 hours
+      23IT4121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4121 Sec2: Successfully scheduled all 4 hours
+      23IT4121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4122
+      23IT4122 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 2 period(s)
+        Thursday: 1 period(s)
+    23IT4122 Sec1: Successfully scheduled all 4 hours
+      23IT4122 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 2 period(s)
+        Wednesday: 1 period(s)
+    23IT4122 Sec2: Successfully scheduled all 4 hours
+      23IT4122 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Wednesday: 2 period(s)
+    23IT4122 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT6121
+      23IT6121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23IT6121 Sec1: Successfully scheduled all 4 hours
+      23IT6121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Thursday: Scheduled 2 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 1 period(s)
+        Thursday: 2 period(s)
+        Friday: 1 period(s)
+    23IT6121 Sec2: Successfully scheduled all 4 hours
+      23IT6121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Saturday: Scheduled 1 period(s)
+        Day-filling completed 3/4 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+        Wednesday: 2 period(s)
+        Friday: 1 period(s)
+        Saturday: 1 period(s)
+    23IT6121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23TP09104
+    23TP09104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      3 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP09104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      2 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP09104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      3 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['8:45 - 9:45', '9:45 - 10:35']
+  ====> Processing TP course: 23TP19104
+    23TP19104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      1 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP19104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP19104 Sec2
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP19104 Sec2: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP19104 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 2 period(s)
+    23TP19104 Sec2: Successfully scheduled all 2 hours
+    23TP19104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      1 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['10:35 - 11:25', '11:25 - 12:15']
+  ====> Processing TP course: 23TP9104
+    23TP9104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP9104 Sec1
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP9104 Sec1: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP9104 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23TP9104 Sec1: Successfully scheduled all 2 hours
+    23TP9104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP9104 Sec2
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP9104 Sec2: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP9104 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23TP9104 Sec2: Successfully scheduled all 2 hours
+    23TP9104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP9104 Sec3
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP9104 Sec3: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP9104 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Monday: 2 period(s)
+    23TP9104 Sec3: Successfully scheduled all 2 hours
+      23IT9304 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9304 Sec1: Successfully scheduled all 1 hours
+      23IT9304 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9304 Sec2: Successfully scheduled all 1 hours
+      23IT9304 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Wednesday: 1 period(s)
+    23IT9304 Sec3: Successfully scheduled all 1 hours
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  Found 1 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+  Special periods: 3/3 scheduled successfully
+HOUR ALLOCATION REJECT: 23IT6121 Sec3 has 3/4 hours
+✅ Successfully scheduled 165 classes
+STRICT VIOLATION: 23TP19104 Section 2 has 2 hours but NOT continuous on Thursday
+STRICT VIOLATION: 23TP9104 Section 1 split across 2 days (Must be on ONE day)
+STRICT VIOLATION: 23TP9104 Section 2 split across 2 days (Must be on ONE day)
+STRICT VIOLATION: 23TP9104 Section 3 has 2 hours but NOT continuous on Monday
+   23IT6121 Sec3: 3/4 hours
+🔷 Scheduling Order: 0 LABs → 0 ELECTIVEs → 0 TP courses → 0 regular THEORY
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  No special periods configured for this year
+✅ Successfully scheduled 0 classes
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+🔷 Scheduling Order: 4 LABs → 0 ELECTIVEs → 4 TP courses → 2 regular THEORY
+  ====> Processing LAB course: 23IT4212
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4212 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr.KSN Murthy
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 15 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4212 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.B.Satya Narayana
+    Lab room: lab 2
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 15 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4212 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Ms.I.Sahithi
+    Lab room: lab 2
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23ME3205
+    ====> Section 1
+  Scheduling REGULAR LAB 23ME3205 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr.J.V Bhanu Tej
+    Lab room: CAD lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 14 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23ME3205 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Dr.M.Prasanth Kumar
+    Lab room: CAD lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 12 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23ME3205 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr.R.D..V.Prasad
+    Lab room: CAD lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 12 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23PY1102
+    ====> Section 1
+  Scheduling REGULAR LAB 23PY1102 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr.L.Santhosh Kumar
+    Lab room: Phy lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23PY1102 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.N.Srinivas Rao
+    Lab room: Phy lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23PY1102 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr.G.Swathi
+    Lab room: Phy lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 10 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23IT41112
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT41112 (Sec 1): 1 blocks of 2hr each
+    Main instructor: Mr.A.Durga Praveen
+    Lab room: sales force lab
+    Found 25 continuous 2-hour blocks total
+    After conflict checking: 18 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT41112 (Sec 2): 1 blocks of 2hr each
+    Main instructor: Ms.M.Sireesha
+    Lab room: lab 1
+    Found 25 continuous 2-hour blocks total
+    After conflict checking: 14 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT41112 (Sec 3): 1 blocks of 2hr each
+    Main instructor: Ms.M.Sireesha
+    Lab room: lab 1
+    Found 25 continuous 2-hour blocks total
+    After conflict checking: 15 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing TP course: 23EC3103
+      23EC3103 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec1: Successfully scheduled all 4 hours
+      23EC3103 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec2: Successfully scheduled all 4 hours
+      23EC3103 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4111
+      23IT4111 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4111 Sec1: Successfully scheduled all 4 hours
+      23IT4111 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4111 Sec2: Successfully scheduled all 4 hours
+      23IT4111 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Wednesday: 2 period(s)
+    23IT4111 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23MA1102
+      23MA1102 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 2 period(s)
+        Thursday: 1 period(s)
+    23MA1102 Sec1: Successfully scheduled all 4 hours
+      23MA1102 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23MA1102 Sec2: Successfully scheduled all 4 hours
+      23MA1102 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23MA1102 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23PY1101
+      23PY1101 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23PY1101 Sec1: Successfully scheduled all 4 hours
+      23PY1101 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23PY1101 Sec2: Successfully scheduled all 4 hours
+      23PY1101 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 2 period(s)
+        Friday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Thursday: 2 period(s)
+        Friday: 2 period(s)
+    23PY1101 Sec3: Successfully scheduled all 4 hours
+      23MC0102 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec1: Successfully scheduled all 3 hours
+      23MC0102 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling completed 2/3 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+      🔧🔧 GAP-FILLING PHASE 2 (ULTRA-RELAXED): 1 hours still missing, ignoring consecutive constraint but respecting day limit
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec2: Only scheduled 2/3 hours (INCOMPLETE)
+⚠ REGULAR THEORY 23MC0102 Sec2 failed - will retry in gap-filling
+      23MC0102 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling completed 2/3 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+      🔧🔧 GAP-FILLING PHASE 2 (ULTRA-RELAXED): 1 hours still missing, ignoring consecutive constraint but respecting day limit
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec3: Only scheduled 2/3 hours (INCOMPLETE)
+⚠ REGULAR THEORY 23MC0102 Sec3 failed - will retry in gap-filling
+      23IT4112 Sec1: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4112 Sec1: Successfully scheduled all 2 hours
+      23IT4112 Sec2: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling completed 1/2 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+      🔧🔧 GAP-FILLING PHASE 2 (ULTRA-RELAXED): 1 hours still missing, ignoring consecutive constraint but respecting day limit
+        Friday: 1 period(s)
+    23IT4112 Sec2: Only scheduled 1/2 hours (INCOMPLETE)
+⚠ REGULAR THEORY 23IT4112 Sec2 failed - will retry in gap-filling
+      23IT4112 Sec3: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4112 Sec3: Successfully scheduled all 2 hours
+🔧 GAP-FILLING: Attempting to schedule 3 failed theory courses
+  🔧 RELAXED SCHEDULING: 23MC0102 Sec2 - filling ANY available slots
+  ✓ RELAXED: Successfully scheduled all 3 hours
+✓ Gap-filled THEORY 23MC0102 Sec2
+  🔧 RELAXED SCHEDULING: 23MC0102 Sec3 - filling ANY available slots
+  ✓ RELAXED: Successfully scheduled all 3 hours
+✓ Gap-filled THEORY 23MC0102 Sec3
+  🔧 RELAXED SCHEDULING: 23IT4112 Sec2 - filling ANY available slots
+  ✓ RELAXED: Successfully scheduled all 2 hours
+✓ Gap-filled THEORY 23IT4112 Sec2
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  Found 3 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+    [OK] Library Sec 1: 1hr
+    [OK] Library Sec 2: 1hr
+    [OK] Library Sec 3: 1hr
+    [OK] Sports Sec 1: 1hr
+    [OK] Sports Sec 2: 1hr
+    [OK] Sports Sec 3: 1hr
+  Special periods: 9/9 scheduled successfully
+✅ Successfully scheduled 110 classes
+🔷 Scheduling Order: 4 LABs → 0 ELECTIVEs → 3 TP courses → 6 regular THEORY
+  ====> Processing LAB course: 23IT4218
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4218 (Sec 1): 1 blocks of 4hr each
+    Main instructor: Mrs.Hari Priyanka
+    Lab room: lab 1
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 3 valid blocks available
+    Auto-selected 2 evaluators: ['Ms.M.Sireesha', 'Mrs.P.Naveena']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4218 (Sec 2): 1 blocks of 4hr each
+    Main instructor: Mrs.V.Alekya
+    Lab room: lab 1
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 2 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.D.satya sowjanya', 'Mrs.Hima Bindu']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4218 (Sec 3): 1 blocks of 4hr each
+    Main instructor: Mrs G Vijaya Laxmi
+    Lab room: lab 2
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 4 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Durga Praveen', 'Mr.G.Ravindranath']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4215
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4215 (Sec 1): 1 blocks of 3hr each
+    Main instructor: MrsV Krishna sameera
+    Lab room: lab3
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.V.Alekya', 'Mr M V Kishore']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4215 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.Reddi Prasadu
+    Lab room: lab3
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 11 valid blocks available
+    Auto-selected 2 evaluators: ['Ms.B.Prameela', 'Mr.A.Ravi Kishore']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4215 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.D.satya sowjanya
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Ravi Kishore', 'Ms B keerthana']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4216
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4216 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr P saritha Hepsibha
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 6 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.P.Naveena', 'Mrs.Hima Bindu']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4216 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Dr ch suneetha
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs G Vijaya Laxmi', 'Mr N Chaitanya Kumar']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4216 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Ms ch Anusha
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 3 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.G.Ravindranath', 'Mrs.M.swathi']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4217
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4217 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr M V Kishore
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Ms.M.Sireesha', 'adarsh']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4217 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mrs.D Tejaswi
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 4 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs B sunayana', 'Mrs.Hima Bindu']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4217 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr ch suneetha
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 8 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs G Vijaya Laxmi', 'Mrs.D.satya sowjanya']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing TP course: 23MA1107
+      23MA1107 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23MA1107 Sec1: Successfully scheduled all 4 hours
+      23MA1107 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23MA1107 Sec2: Successfully scheduled all 4 hours
+      23MA1107 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 2 period(s)
+        Wednesday: 1 period(s)
+    23MA1107 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23TP9102
+    23TP9102 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      11 conflict-free blocks available
+      [OK] Scheduling continuous block: Tuesday ['1:05 - 1:55', '1:55 - 2:45']
+    23TP9102 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      10 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['1:55 - 2:45', '2:45 - 3:35']
+    23TP9102 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      9 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['10:35 - 11:25', '11:25 - 12:15']
+  ====> Processing TP course: 23TP9103
+    23TP9103 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      10 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9103 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      8 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9103 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      8 conflict-free blocks available
+      [OK] Scheduling continuous block: Tuesday ['8:45 - 9:45', '9:45 - 10:35']
+      23IT4116 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4116 Sec1: Successfully scheduled all 3 hours
+      23IT4116 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4116 Sec2: Successfully scheduled all 3 hours
+      23IT4116 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4116 Sec3: Successfully scheduled all 3 hours
+      23IT4117 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4117 Sec1: Successfully scheduled all 3 hours
+      23IT4117 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec2: Successfully scheduled all 3 hours
+      23IT4117 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec3: Successfully scheduled all 3 hours
+      23IT4119 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec1: Successfully scheduled all 3 hours
+      23IT4119 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4119 Sec2: Successfully scheduled all 3 hours
+      23IT4119 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec3: Successfully scheduled all 3 hours
+      23MC0104 Sec1: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23MC0104 Sec1: Successfully scheduled all 2 hours
+      23MC0104 Sec2: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0104 Sec2: Successfully scheduled all 2 hours
+      23MC0104 Sec3: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23MC0104 Sec3: Successfully scheduled all 2 hours
+      23IT4118 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT4118 Sec1: Successfully scheduled all 1 hours
+      23IT4118 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Wednesday: 1 period(s)
+    23IT4118 Sec2: Successfully scheduled all 1 hours
+      23IT4118 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT4118 Sec3: Successfully scheduled all 1 hours
+      23IT9302 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9302 Sec1: Successfully scheduled all 1 hours
+      23IT9302 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9302 Sec2: Successfully scheduled all 1 hours
+      23IT9302 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9302 Sec3: Successfully scheduled all 1 hours
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  Found 1 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+  Special periods: 3/3 scheduled successfully
+✅ Successfully scheduled 183 classes
+🔷 Scheduling Order: 3 LABs → 2 ELECTIVEs → 6 TP courses → 1 regular THEORY
+  ====> Processing LAB course: 23IT4221
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4221 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs B sunayana
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 8 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.KSN Murthy', 'Mr.A.Ravi Kishore']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4221 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Prof.S.Ram prasad Reddy
+    Lab room: lab3
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 11 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.V.Alekya', 'Mrs G Vijaya Laxmi']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4221 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.Hima Bindu
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 1 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Durga Praveen', 'Mr N Chaitanya Kumar']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4222
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4222 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr.P.Laxmi Kanth
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 14 valid blocks available
+    Auto-selected 2 evaluators: ['Mr M V Kishore', 'Ms B keerthana']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4222 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.G.Ravindranath
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 7 valid blocks available
+    Auto-selected 2 evaluators: ['adarsh', 'Mr.A.Ravi Kishore']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4222 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.M.swathi
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.V.Alekya', 'Mrs.P.Naveena']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT5211
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT5211 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs.Hari Priyanka
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 0 valid blocks available
+    ERROR: Need 1 blocks but only 0 available!
+Failed to schedule LAB 23IT5211 for section 1
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT5211 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.KSN Murthy
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 0 valid blocks available
+    ERROR: Need 1 blocks but only 0 available!
+Failed to schedule LAB 23IT5211 for section 2
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT5211 (Sec 3): 1 blocks of 3hr each
+    Main instructor: MrsV Krishna sameera
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 2 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.D.satya sowjanya', 'Mr.G.Ravindranath']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  Scheduling ELECTIVE 23IT5121: 4hrs using pre-allocated times
+    Falling back to dynamic scheduling...
+    Dynamic scheduling ELECTIVE 23IT5121: 4hrs
+  ✓ ELECTIVE 23IT5121: Successfully scheduled all 4 hours
+  Scheduling ELECTIVE 23IT5131: 4hrs using pre-allocated times
+    Falling back to dynamic scheduling...
+    Dynamic scheduling ELECTIVE 23IT5131: 4hrs
+  ✓ ELECTIVE 23IT5131: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4121
+      23IT4121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 2 period(s)
+        Wednesday: 2 period(s)
+    23IT4121 Sec1: Successfully scheduled all 4 hours
+      23IT4121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4121 Sec2: Successfully scheduled all 4 hours
+      23IT4121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4122
+      23IT4122 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4122 Sec1: Successfully scheduled all 4 hours
+      23IT4122 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4122 Sec2: Successfully scheduled all 4 hours
+      23IT4122 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4122 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT6121
+      23IT6121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 2 period(s)
+        Wednesday: 2 period(s)
+    23IT6121 Sec1: Successfully scheduled all 4 hours
+      23IT6121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 2 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 2 period(s)
+        Friday: 1 period(s)
+    23IT6121 Sec2: Successfully scheduled all 4 hours
+      23IT6121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 2 period(s)
+        Saturday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 1 period(s)
+        Friday: 2 period(s)
+        Saturday: 1 period(s)
+    23IT6121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23TP09104
+    23TP09104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      6 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP09104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      5 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP09104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      2 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['10:35 - 11:25', '11:25 - 12:15']
+  ====> Processing TP course: 23TP19104
+    23TP19104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      4 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP19104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      3 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['1:55 - 2:45', '2:45 - 3:35']
+    23TP19104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      1 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['1:05 - 1:55', '1:55 - 2:45']
+  ====> Processing TP course: 23TP9104
+    23TP9104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      2 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      1 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP9104 Sec3
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP9104 Sec3: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP9104 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Monday: 1 period(s)
+        Thursday: 1 period(s)
+    23TP9104 Sec3: Successfully scheduled all 2 hours
+      23IT9304 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Wednesday: 1 period(s)
+    23IT9304 Sec1: Successfully scheduled all 1 hours
+      23IT9304 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Monday: 1 period(s)
+    23IT9304 Sec2: Successfully scheduled all 1 hours
+      23IT9304 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT9304 Sec3: Successfully scheduled all 1 hours
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+⚠ FINAL GAP: 23IT5211 Sec1 missing 3/3 hours
+✓ Force-filled 23IT5211 Sec1: 3/3
+⚠ FINAL GAP: 23IT5211 Sec2 missing 3/3 hours
+✓ Force-filled 23IT5211 Sec2: 3/3
+📅 Starting special periods scheduling...
+  Found 1 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+  Special periods: 3/3 scheduled successfully
+HOUR ALLOCATION REJECT: 23IT5211 Sec1 has 1/3 hours
+✅ Successfully scheduled 153 classes
+STRICT VIOLATION: 23TP9104 Section 3 split across 2 days (Must be on ONE day)
+   23IT5211 Sec1: 1/3 hours
+   23IT5211 Sec2: 1/3 hours
+🔷 Scheduling Order: 0 LABs → 0 ELECTIVEs → 0 TP courses → 0 regular THEORY
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  No special periods configured for this year
+✅ Successfully scheduled 0 classes
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 1st Year (ID: 11)
+Invalid Course form submission by user sruji
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+🔷 Scheduling Order: 4 LABs → 0 ELECTIVEs → 4 TP courses → 2 regular THEORY
+  ====> Processing LAB course: 23IT4212
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4212 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr.KSN Murthy
+    Lab room: lab 1
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 33 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4212 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.B.Satya Narayana
+    Lab room: lab 1
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 30 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4212 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Ms.I.Sahithi
+    Lab room: lab 1
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 27 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23ME3205
+    ====> Section 1
+  Scheduling REGULAR LAB 23ME3205 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr.J.V Bhanu Tej
+    Lab room: CAD lab
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 30 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23ME3205 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Dr.M.Prasanth Kumar
+    Lab room: CAD lab
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 27 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23ME3205 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr.R.D..V.Prasad
+    Lab room: CAD lab
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 26 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23PY1102
+    ====> Section 1
+  Scheduling REGULAR LAB 23PY1102 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr.L.Santhosh Kumar
+    Lab room: Phy lab
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 27 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23PY1102 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.N.Srinivas Rao
+    Lab room: Phy lab
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 25 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23PY1102 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr.G.Swathi
+    Lab room: Phy lab
+    Found 33 continuous 3-hour blocks total
+    After conflict checking: 22 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing LAB course: 23IT41112
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT41112 (Sec 1): 1 blocks of 2hr each
+    Main instructor: Mr.A.Durga Praveen
+    Lab room: sales force lab
+    Found 40 continuous 2-hour blocks total
+    After conflict checking: 32 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT41112 (Sec 2): 1 blocks of 2hr each
+    Main instructor: Ms.M.Sireesha
+    Lab room: lab 1
+    Found 40 continuous 2-hour blocks total
+    After conflict checking: 24 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT41112 (Sec 3): 1 blocks of 2hr each
+    Main instructor: Ms.M.Sireesha
+    Lab room: lab 1
+    Found 40 continuous 2-hour blocks total
+    After conflict checking: 21 valid blocks available
+    Block 1: 1st Year - main instructor only (no evaluators)
+  ====> Processing TP course: 23EC3103
+      23EC3103 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec1: Successfully scheduled all 4 hours
+      23EC3103 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec2: Successfully scheduled all 4 hours
+      23EC3103 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23EC3103 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23EC3103 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4111
+      23IT4111 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4111 Sec1: Successfully scheduled all 4 hours
+      23IT4111 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 2 period(s)
+        Wednesday: 2 period(s)
+    23IT4111 Sec2: Successfully scheduled all 4 hours
+      23IT4111 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4111 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4111 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23MA1102
+      23MA1102 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23MA1102 Sec1: Successfully scheduled all 4 hours
+      23MA1102 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 2 period(s)
+        Wednesday: 2 period(s)
+    23MA1102 Sec2: Successfully scheduled all 4 hours
+      23MA1102 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1102 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23MA1102 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23PY1101
+      23PY1101 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Wednesday: 2 period(s)
+    23PY1101 Sec1: Successfully scheduled all 4 hours
+      23PY1101 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Wednesday: 2 period(s)
+        Thursday: 2 period(s)
+    23PY1101 Sec2: Successfully scheduled all 4 hours
+      23PY1101 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23PY1101 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Wednesday: 2 period(s)
+    23PY1101 Sec3: Successfully scheduled all 4 hours
+      23MC0102 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec1: Successfully scheduled all 3 hours
+      23MC0102 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec2: Successfully scheduled all 3 hours
+      23MC0102 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23MC0102 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0102 Sec3: Successfully scheduled all 3 hours
+      23IT4112 Sec1: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4112 Sec1: Successfully scheduled all 2 hours
+      23IT4112 Sec2: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4112 Sec2: Successfully scheduled all 2 hours
+      23IT4112 Sec3: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23IT4112 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4112 Sec3: Successfully scheduled all 2 hours
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  Found 3 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+    [OK] Library Sec 1: 1hr
+    [OK] Library Sec 2: 1hr
+    [OK] Library Sec 3: 1hr
+    [OK] Sports Sec 1: 1hr
+    [OK] Sports Sec 2: 1hr
+    [OK] Sports Sec 3: 1hr
+  Special periods: 9/9 scheduled successfully
+✅ Successfully scheduled 105 classes
+🔷 Scheduling Order: 4 LABs → 0 ELECTIVEs → 3 TP courses → 6 regular THEORY
+  ====> Processing LAB course: 23IT4218
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4218 (Sec 1): 1 blocks of 4hr each
+    Main instructor: Mrs.Hari Priyanka
+    Lab room: lab 2
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Mr N Chaitanya Kumar', 'Ms ch Anusha']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4218 (Sec 2): 1 blocks of 4hr each
+    Main instructor: Mrs.V.Alekya
+    Lab room: lab 1
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 3 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.D.satya sowjanya', 'Mr N Chaitanya Kumar']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4218 (Sec 3): 1 blocks of 4hr each
+    Main instructor: Mrs G Vijaya Laxmi
+    Lab room: lab3
+    Found 5 continuous 4-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.P.Naveena', 'Ms.B.Prameela']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4215
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4215 (Sec 1): 1 blocks of 3hr each
+    Main instructor: MrsV Krishna sameera
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 13 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.P.Naveena', 'Mrs.Hima Bindu']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4215 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.Reddi Prasadu
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 11 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs B sunayana', 'Mr M V Kishore']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4215 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.D.satya sowjanya
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Ms B keerthana', 'Mr.A.Durga Praveen']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4216
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4216 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr P saritha Hepsibha
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 10 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.Reddi Prasadu', 'Ms B keerthana']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4216 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Dr ch suneetha
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.B.Satya Narayana', 'Mr.A.Ravi Kishore']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4216 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Ms ch Anusha
+    Lab room: NS lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 7 valid blocks available
+    Auto-selected 2 evaluators: ['Mr M V Kishore', 'Mrs B sunayana']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4217
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4217 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mr M V Kishore
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['MrsV Krishna sameera', 'Mrs G Vijaya Laxmi']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4217 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mrs.D Tejaswi
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 4 valid blocks available
+    Auto-selected 2 evaluators: ['MrsV Krishna sameera', 'Ms ch Anusha']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4217 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Dr ch suneetha
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.D.satya sowjanya', 'Mr.A.Durga Praveen']
+    Block 1: 2nd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing TP course: 23MA1107
+      23MA1107 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23MA1107 Sec1: Successfully scheduled all 4 hours
+      23MA1107 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 2 period(s)
+        Wednesday: 1 period(s)
+    23MA1107 Sec2: Successfully scheduled all 4 hours
+      23MA1107 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23MA1107 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23MA1107 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23TP9102
+    23TP9102 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      12 conflict-free blocks available
+      [OK] Scheduling continuous block: Tuesday ['1:05 - 1:55', '1:55 - 2:45']
+    23TP9102 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      12 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['1:55 - 2:45', '2:45 - 3:35']
+    23TP9102 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      10 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['10:35 - 11:25', '11:25 - 12:15']
+  ====> Processing TP course: 23TP9103
+    23TP9103 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      11 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9103 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      10 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9103 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 25 continuous 2-hour blocks
+      8 conflict-free blocks available
+      [OK] Scheduling continuous block: Tuesday ['8:45 - 9:45', '9:45 - 10:35']
+      23IT4116 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4116 Sec1: Successfully scheduled all 3 hours
+      23IT4116 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4116 Sec2: Successfully scheduled all 3 hours
+      23IT4116 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4116 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4116 Sec3: Successfully scheduled all 3 hours
+      23IT4117 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec1: Successfully scheduled all 3 hours
+      23IT4117 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec2: Successfully scheduled all 3 hours
+      23IT4117 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4117 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4117 Sec3: Successfully scheduled all 3 hours
+      23IT4119 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling completed 2/3 hours - starting gap-filling
+      🔧 GAP-FILLING PHASE 1: 1 hours remaining, filling gaps (respecting max continuous)
+      🔧🔧 GAP-FILLING PHASE 2 (ULTRA-RELAXED): 1 hours still missing, ignoring consecutive constraint but respecting day limit
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec1: Only scheduled 2/3 hours (INCOMPLETE)
+⚠ REGULAR THEORY 23IT4119 Sec1 failed - will retry in gap-filling
+      23IT4119 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec2: Successfully scheduled all 3 hours
+      23IT4119 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      23IT4119 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23IT4119 Sec3: Successfully scheduled all 3 hours
+      23MC0104 Sec1: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Friday: 1 period(s)
+    23MC0104 Sec1: Successfully scheduled all 2 hours
+      23MC0104 Sec2: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23MC0104 Sec2: Successfully scheduled all 2 hours
+      23MC0104 Sec3: Day-filling 2 hrs (max 1 hrs/day) with instructor priorities
+      23MC0104 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23MC0104 Sec3: Successfully scheduled all 2 hours
+      23IT4118 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT4118 Sec1: Successfully scheduled all 1 hours
+      23IT4118 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT4118 Sec2: Successfully scheduled all 1 hours
+      23IT4118 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT4118 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT4118 Sec3: Successfully scheduled all 1 hours
+      23IT9302 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9302 Sec1: Successfully scheduled all 1 hours
+      23IT9302 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9302 Sec2: Successfully scheduled all 1 hours
+      23IT9302 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9302 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Wednesday: 1 period(s)
+    23IT9302 Sec3: Successfully scheduled all 1 hours
+🔧 GAP-FILLING: Attempting to schedule 1 failed theory courses
+  🔧 RELAXED SCHEDULING: 23IT4119 Sec1 - filling ANY available slots
+  ✓ RELAXED: Successfully scheduled all 3 hours
+✓ Gap-filled THEORY 23IT4119 Sec1
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  Found 1 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+  Special periods: 3/3 scheduled successfully
+✅ Successfully scheduled 185 classes
+🔷 Scheduling Order: 3 LABs → 2 ELECTIVEs → 6 TP courses → 1 regular THEORY
+  ====> Processing LAB course: 23IT4221
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4221 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs B sunayana
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 3 valid blocks available
+    Auto-selected 2 evaluators: ['Ms ch Anusha', 'Mr N Chaitanya Kumar']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4221 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Prof.S.Ram prasad Reddy
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 2 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.M.swathi', 'Mrs.Hari Priyanka']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4221 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.Hima Bindu
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.B.Satya Narayana', 'Mr.G.Ravindranath']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4222
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4222 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr.P.Laxmi Kanth
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 14 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.P.Naveena', 'MrsV Krishna sameera']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4222 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.G.Ravindranath
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 10 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Durga Praveen', 'Ms B keerthana']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4222 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.M.swathi
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 9 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.V.Alekya', 'Mr M V Kishore']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT5211
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT5211 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs.Hari Priyanka
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 0 valid blocks available
+    ERROR: Need 1 blocks but only 0 available!
+Failed to schedule LAB 23IT5211 for section 1
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT5211 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.KSN Murthy
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 6 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.D Tejaswi', 'Mrs.Hima Bindu']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT5211 (Sec 3): 1 blocks of 3hr each
+    Main instructor: MrsV Krishna sameera
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 3 valid blocks available
+    Auto-selected 2 evaluators: ['Ms B keerthana', 'Mr.B.Satya Narayana']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  Scheduling ELECTIVE 23IT5121: 4hrs using pre-allocated times
+    Falling back to dynamic scheduling...
+    Dynamic scheduling ELECTIVE 23IT5121: 4hrs
+  ✓ ELECTIVE 23IT5121: Successfully scheduled all 4 hours
+  Scheduling ELECTIVE 23IT5131: 4hrs using pre-allocated times
+    Falling back to dynamic scheduling...
+    Dynamic scheduling ELECTIVE 23IT5131: 4hrs
+  ✓ ELECTIVE 23IT5131: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4121
+      23IT4121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4121 Sec1: Successfully scheduled all 4 hours
+      23IT4121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4121 Sec2: Successfully scheduled all 4 hours
+      23IT4121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4122
+      23IT4122 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 2 period(s)
+        Wednesday: 1 period(s)
+    23IT4122 Sec1: Successfully scheduled all 4 hours
+      23IT4122 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 2 period(s)
+        Wednesday: 1 period(s)
+    23IT4122 Sec2: Successfully scheduled all 4 hours
+      23IT4122 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 2 period(s)
+        Thursday: 1 period(s)
+    23IT4122 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT6121
+      23IT6121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 2 period(s)
+        Thursday: 1 period(s)
+    23IT6121 Sec1: Successfully scheduled all 4 hours
+      23IT6121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 2 period(s)
+        Thursday: 1 period(s)
+    23IT6121 Sec2: Successfully scheduled all 4 hours
+      23IT6121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Saturday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Wednesday: 1 period(s)
+        Saturday: 1 period(s)
+    23IT6121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23TP09104
+    23TP09104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      2 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['9:45 - 10:35', '10:35 - 11:25']
+    23TP09104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      3 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP09104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      2 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['10:35 - 11:25', '11:25 - 12:15']
+  ====> Processing TP course: 23TP19104
+    23TP19104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP19104 Sec1
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP19104 Sec1: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP19104 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 2 period(s)
+    23TP19104 Sec1: Successfully scheduled all 2 hours
+    23TP19104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      2 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['1:55 - 2:45', '2:45 - 3:35']
+    23TP19104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP19104 Sec3
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP19104 Sec3: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP19104 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Monday: 1 period(s)
+        Thursday: 1 period(s)
+    23TP19104 Sec3: Successfully scheduled all 2 hours
+  ====> Processing TP course: 23TP9104
+    23TP9104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP9104 Sec1
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP9104 Sec1: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP9104 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23TP9104 Sec1: Successfully scheduled all 2 hours
+    23TP9104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP9104 Sec2
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP9104 Sec2: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP9104 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 2 period(s)
+    23TP9104 Sec2: Successfully scheduled all 2 hours
+    23TP9104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      0 conflict-free blocks available
+      ⚠ No continuous blocks available for 23TP9104 Sec3
+      → Falling back to separate period scheduling (will be penalized in fitness)
+      23TP9104 Sec3: Day-filling 2 hrs (max 2 hrs/day) with instructor priorities
+      23TP9104 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 2 hours scheduled
+        Thursday: 2 period(s)
+    23TP9104 Sec3: Successfully scheduled all 2 hours
+      23IT9304 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT9304 Sec1: Successfully scheduled all 1 hours
+      23IT9304 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Saturday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Saturday: 1 period(s)
+    23IT9304 Sec2: Successfully scheduled all 1 hours
+      23IT9304 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Thursday: 1 period(s)
+    23IT9304 Sec3: Successfully scheduled all 1 hours
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+⚠ FINAL GAP: 23IT5211 Sec1 missing 3/3 hours
+✓ Force-filled 23IT5211 Sec1: 3/3
+📅 Starting special periods scheduling...
+  Found 1 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+  Special periods: 3/3 scheduled successfully
+HOUR ALLOCATION REJECT: 23IT5211 Sec1 has 1/3 hours
+✅ Successfully scheduled 159 classes
+STRICT VIOLATION: 23TP19104 Section 1 has 2 hours but NOT continuous on Wednesday
+STRICT VIOLATION: 23TP19104 Section 3 split across 2 days (Must be on ONE day)
+STRICT VIOLATION: 23TP9104 Section 1 split across 2 days (Must be on ONE day)
+STRICT VIOLATION: 23TP9104 Section 2 has 2 hours but NOT continuous on Thursday
+STRICT VIOLATION: 23TP9104 Section 3 has 2 hours but NOT continuous on Thursday
+   23IT5211 Sec1: 1/3 hours
+🔷 Scheduling Order: 0 LABs → 0 ELECTIVEs → 0 TP courses → 1 regular THEORY
+      IT120 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      IT120 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    IT120 Sec1: Successfully scheduled all 3 hours
+      IT120 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      IT120 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    IT120 Sec2: Successfully scheduled all 3 hours
+      IT120 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      IT120 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    IT120 Sec3: Successfully scheduled all 3 hours
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  No special periods configured for this year
+✅ Successfully scheduled 9 classes
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 3rd Year (ID: 13)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 4th Year (ID: 14)
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 4th Year (ID: 14)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 4th Year (ID: 14)
+Pre-allocating times for 0 courses needing section alignment...
+  Aligned courses: []
+=== COURSES TO BE SCHEDULED ===
+LAB (0): []
+ELECTIVE (0): []
+CONTINUOUS THEORY (0): [] (TP courses needing 2+ continuous hours)
+REGULAR THEORY (1): ['IT120']
+>>> Starting CONSTRAINT-BASED scheduling (guaranteed conflict-free!)
+Attempt 1/30...
+🔷 Scheduling Order: 0 LABs → 0 ELECTIVEs → 0 TP courses → 1 regular THEORY
+      IT120 Sec1: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      IT120 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    IT120 Sec1: Successfully scheduled all 3 hours
+      IT120 Sec2: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      IT120 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    IT120 Sec2: Successfully scheduled all 3 hours
+      IT120 Sec3: Day-filling 3 hrs (max 1 hrs/day) with instructor priorities
+      IT120 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 3 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    IT120 Sec3: Successfully scheduled all 3 hours
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+✓ All courses fully scheduled - no gaps remaining
+📅 Starting special periods scheduling...
+  No special periods configured for this year
+✅ Successfully scheduled 9 classes
+[OK] Attempt 1: TP courses are continuous (fitness: 100.00%, conflicts: 0)
+SUCCESS on attempt 1! Schedule created with 9 classes
+>>> Saving conflict-free schedule to database...
+>>> Schedule quality: 100.00% fitness, 0 conflicts
+Adding counselling and sports periods...
+Internal Server Error: /timetableGeneration/
+Traceback (most recent call last):
+  File "C:\Users\adarsh\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\adarsh\AppData\Roaming\Python\Python313\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\final year pro\timetablescheduler\SchedulerApp\views.py", line 2446, in timetable
+    selected_days = random.sample(available_days, 2)
+                    ^^^^^^
+UnboundLocalError: cannot access local variable 'random' where it is not associated with a value
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 4th Year (ID: 14)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 4th Year (ID: 14)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 3rd Year (ID: 13)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 3rd Year (ID: 13)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 3rd Year (ID: 13)
+Pre-allocating times for 2 courses needing section alignment...
+  Aligned courses: ['23IT5121', '23IT5131']
+  23IT5121 continuous: Monday ['8:45 - 9:45', '9:45 - 10:35']
+  23IT5121 single (2 periods): [('Tuesday', '8:45 - 9:45'), ('Wednesday', '8:45 - 9:45')]
+  23IT5131 continuous: Friday ['8:45 - 9:45', '9:45 - 10:35']
+  23IT5131 single (2 periods): [('Tuesday', '1:05 - 1:55'), ('Wednesday', '1:05 - 1:55')]
+=== COURSES TO BE SCHEDULED ===
+LAB (3): ['23IT4221', '23IT4222', '23IT5211']
+ELECTIVE (2): ['23IT5121', '23IT5131']
+CONTINUOUS THEORY (6): ['23IT4121', '23IT4122', '23IT6121', '23TP09104', '23TP19104', '23TP9104'] (TP courses needing 2+ continuous hours)
+REGULAR THEORY (1): ['23IT9304']
+>>> Starting CONSTRAINT-BASED scheduling (guaranteed conflict-free!)
+Attempt 1/30...
+🔷 Scheduling Order: 3 LABs → 2 ELECTIVEs → 6 TP courses → 1 regular THEORY
+  ====> Processing LAB course: 23IT4221
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4221 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs B sunayana
+    Lab room: lab 2
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.Hari Priyanka', 'Mr.Reddi Prasadu']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4221 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Prof.S.Ram prasad Reddy
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Ravi Kishore', 'Mrs.M.swathi']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4221 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.Hima Bindu
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 2 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs.V.Alekya', 'Mr N Chaitanya Kumar']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT4222
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT4222 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Dr.P.Laxmi Kanth
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Mrs B sunayana', 'MrsV Krishna sameera']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT4222 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.G.Ravindranath
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 5 valid blocks available
+    Auto-selected 2 evaluators: ['Ms ch Anusha', 'Mrs.P.Naveena']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT4222 (Sec 3): 1 blocks of 3hr each
+    Main instructor: Mrs.M.swathi
+    Lab room: IOT lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 3 valid blocks available
+    Auto-selected 2 evaluators: ['Mr.A.Ravi Kishore', 'Mrs.V.Alekya']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+  ====> Processing LAB course: 23IT5211
+    ====> Section 1
+  Scheduling REGULAR LAB 23IT5211 (Sec 1): 1 blocks of 3hr each
+    Main instructor: Mrs.Hari Priyanka
+    Lab room: lab 1
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 0 valid blocks available
+    ERROR: Need 1 blocks but only 0 available!
+Failed to schedule LAB 23IT5211 for section 1
+    ====> Section 2
+  Scheduling REGULAR LAB 23IT5211 (Sec 2): 1 blocks of 3hr each
+    Main instructor: Mr.KSN Murthy
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 1 valid blocks available
+    Auto-selected 2 evaluators: ['Ms.B.Prameela', 'Mr.A.Ravi Kishore']
+    Block 1: 3rd Year - 3 instructors (1 main + 2 evaluators)
+    ====> Section 3
+  Scheduling REGULAR LAB 23IT5211 (Sec 3): 1 blocks of 3hr each
+    Main instructor: MrsV Krishna sameera
+    Lab room: sales force lab
+    Found 15 continuous 3-hour blocks total
+    After conflict checking: 0 valid blocks available
+    ERROR: Need 1 blocks but only 0 available!
+Failed to schedule LAB 23IT5211 for section 3
+  Scheduling ELECTIVE 23IT5121: 4hrs using pre-allocated times
+    Using pre-allocated continuous block: Monday ['8:45 - 9:45', '9:45 - 10:35']
+    Using pre-allocated single times: [('Tuesday', '8:45 - 9:45'), ('Wednesday', '8:45 - 9:45')]
+⚠ ELECTIVE 23IT5121 failed parallel scheduling - will retry separately
+  Scheduling ELECTIVE 23IT5131: 4hrs using pre-allocated times
+    Using pre-allocated continuous block: Friday ['8:45 - 9:45', '9:45 - 10:35']
+    Using pre-allocated single times: [('Tuesday', '1:05 - 1:55'), ('Wednesday', '1:05 - 1:55')]
+⚠ ELECTIVE 23IT5131 failed parallel scheduling - will retry separately
+  ====> Processing TP course: 23IT4121
+      23IT4121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4121 Sec1: Successfully scheduled all 4 hours
+      23IT4121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 2 period(s)
+    23IT4121 Sec2: Successfully scheduled all 4 hours
+      23IT4121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 1 period(s)
+        Wednesday: 2 period(s)
+        Thursday: 1 period(s)
+    23IT4121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT4122
+      23IT4122 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Wednesday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Wednesday: 2 period(s)
+    23IT4122 Sec1: Successfully scheduled all 4 hours
+      23IT4122 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT4122 Sec2: Successfully scheduled all 4 hours
+      23IT4122 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT4122 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Tuesday: Scheduled 2 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Thursday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Tuesday: 2 period(s)
+        Wednesday: 1 period(s)
+        Thursday: 1 period(s)
+    23IT4122 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23IT6121
+      23IT6121 Sec1: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec1: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Friday: Scheduled 2 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Wednesday: 1 period(s)
+        Friday: 2 period(s)
+    23IT6121 Sec1: Successfully scheduled all 4 hours
+      23IT6121 Sec2: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec2: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 2 period(s)
+        Tuesday: Scheduled 1 period(s)
+        Wednesday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 2 period(s)
+        Tuesday: 1 period(s)
+        Wednesday: 1 period(s)
+    23IT6121 Sec2: Successfully scheduled all 4 hours
+      23IT6121 Sec3: Day-filling 4 hrs (max 2 hrs/day) with instructor priorities
+      23IT6121 Sec3: Starting DAY-FILLING (max 2 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Tuesday: Scheduled 2 period(s)
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 4 hours scheduled
+        Monday: 1 period(s)
+        Tuesday: 2 period(s)
+        Friday: 1 period(s)
+    23IT6121 Sec3: Successfully scheduled all 4 hours
+  ====> Processing TP course: 23TP09104
+    23TP09104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      6 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['1:05 - 1:55', '1:55 - 2:45']
+    23TP09104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      7 conflict-free blocks available
+      [OK] Scheduling continuous block: Saturday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP09104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      8 conflict-free blocks available
+      [OK] Scheduling continuous block: Thursday ['10:35 - 11:25', '11:25 - 12:15']
+  ====> Processing TP course: 23TP19104
+    23TP19104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      5 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP19104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      4 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['1:05 - 1:55', '1:55 - 2:45']
+    23TP19104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      8 conflict-free blocks available
+      [OK] Scheduling continuous block: Saturday ['8:45 - 9:45', '9:45 - 10:35']
+  ====> Processing TP course: 23TP9104
+    23TP9104 Sec1: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      4 conflict-free blocks available
+      [OK] Scheduling continuous block: Saturday ['8:45 - 9:45', '9:45 - 10:35']
+    23TP9104 Sec2: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      3 conflict-free blocks available
+      [OK] Scheduling continuous block: Wednesday ['10:35 - 11:25', '11:25 - 12:15']
+    23TP9104 Sec3: Scheduling as 2-hour continuous block (TP course)
+      Found 26 continuous 2-hour blocks
+      6 conflict-free blocks available
+      [OK] Scheduling continuous block: Friday ['1:05 - 1:55', '1:55 - 2:45']
+      23IT9304 Sec1: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec1: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Monday: 1 period(s)
+    23IT9304 Sec1: Successfully scheduled all 1 hours
+      23IT9304 Sec2: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec2: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Friday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Friday: 1 period(s)
+    23IT9304 Sec2: Successfully scheduled all 1 hours
+      23IT9304 Sec3: Day-filling 1 hrs (max 1 hrs/day) with instructor priorities
+      23IT9304 Sec3: Starting DAY-FILLING (max 1 hrs/day per course) with instructor priorities
+        Monday: Scheduled 1 period(s)
+        Day-filling SUCCESS: All 1 hours scheduled
+        Monday: 1 period(s)
+    23IT9304 Sec3: Successfully scheduled all 1 hours
+🔧 GAP-FILLING: Attempting to schedule 2 failed electives WITH ALIGNMENT
+    Dynamic scheduling ELECTIVE 23IT5121: 4hrs
+  ELECTIVE 23IT5121: No valid time slot found after 3 attempts
+  ⚠ ELECTIVE 23IT5121: Only scheduled 2/4 hours (will retry separately)
+   This elective will have incomplete hours - manual adjustment needed
+    Dynamic scheduling ELECTIVE 23IT5131: 4hrs
+  ELECTIVE 23IT5131: No valid time slot found after 1 attempts
+  ⚠ ELECTIVE 23IT5131: Only scheduled 0/4 hours (will retry separately)
+   This elective will have incomplete hours - manual adjustment needed
+🔧 FINAL GAP CHECK: Verifying all courses are fully scheduled
+   Electives require alignment - manual adjustment or regeneration needed
+   Electives require alignment - manual adjustment or regeneration needed
+   Electives require alignment - manual adjustment or regeneration needed
+⚠ FINAL GAP: 23IT5211 Sec1 missing 3/3 hours
+✓ Force-filled 23IT5211 Sec1: 3/3
+⚠ FINAL GAP: 23IT5211 Sec3 missing 3/3 hours
+✓ Force-filled 23IT5211 Sec3: 3/3
+📅 Starting special periods scheduling...
+  Found 1 special period type(s) to schedule for all 3 sections
+    [OK] Counseling Sec 1: 1hr
+    [OK] Counseling Sec 2: 1hr
+    [OK] Counseling Sec 3: 1hr
+  Special periods: 3/3 scheduled successfully
+HOUR ALLOCATION REJECT: 23IT5131 Sec1 has 0/4 hours
+✅ Successfully scheduled 141 classes
+[OK] Attempt 1: TP courses are continuous (fitness: 0.01%, conflicts: 0)
+SUCCESS on attempt 1! Schedule created with 141 classes
+>>> Saving conflict-free schedule to database...
+>>> Schedule quality: 0.01% fitness, 8480 conflicts
+DEBUG-SAVE: 23IT4221 Sec1, Mrs B sunayana, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec1, Mrs B sunayana, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec1, Mrs B sunayana, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec1, Mrs.Hari Priyanka, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec1, Mrs.Hari Priyanka, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec1, Mrs.Hari Priyanka, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec1, Mr.Reddi Prasadu, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec1, Mr.Reddi Prasadu, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec1, Mr.Reddi Prasadu, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec2, Prof.S.Ram prasad Reddy, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec2, Prof.S.Ram prasad Reddy, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec2, Prof.S.Ram prasad Reddy, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec2, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec2, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec2, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec2, Mrs.M.swathi, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec2, Mrs.M.swathi, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec2, Mrs.M.swathi, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec3, Mrs.Hima Bindu, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec3, Mrs.Hima Bindu, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec3, Mrs.Hima Bindu, is_evaluator=False
+DEBUG-SAVE: 23IT4221 Sec3, Mrs.V.Alekya, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec3, Mrs.V.Alekya, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec3, Mrs.V.Alekya, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec3, Mr N Chaitanya Kumar, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec3, Mr N Chaitanya Kumar, is_evaluator=True
+DEBUG-SAVE: 23IT4221 Sec3, Mr N Chaitanya Kumar, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec1, Dr.P.Laxmi Kanth, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec1, Dr.P.Laxmi Kanth, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec1, Dr.P.Laxmi Kanth, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec1, Mrs B sunayana, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec1, Mrs B sunayana, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec1, Mrs B sunayana, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec1, MrsV Krishna sameera, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec1, MrsV Krishna sameera, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec1, MrsV Krishna sameera, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec2, Mr.G.Ravindranath, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec2, Mr.G.Ravindranath, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec2, Mr.G.Ravindranath, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec2, Ms ch Anusha, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec2, Ms ch Anusha, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec2, Ms ch Anusha, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec2, Mrs.P.Naveena, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec2, Mrs.P.Naveena, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec2, Mrs.P.Naveena, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec3, Mrs.M.swathi, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec3, Mrs.M.swathi, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec3, Mrs.M.swathi, is_evaluator=False
+DEBUG-SAVE: 23IT4222 Sec3, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec3, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec3, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec3, Mrs.V.Alekya, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec3, Mrs.V.Alekya, is_evaluator=True
+DEBUG-SAVE: 23IT4222 Sec3, Mrs.V.Alekya, is_evaluator=True
+DEBUG-SAVE: 23IT5211 Sec2, Mr.KSN Murthy, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec2, Mr.KSN Murthy, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec2, Mr.KSN Murthy, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec2, Ms.B.Prameela, is_evaluator=True
+DEBUG-SAVE: 23IT5211 Sec2, Ms.B.Prameela, is_evaluator=True
+DEBUG-SAVE: 23IT5211 Sec2, Ms.B.Prameela, is_evaluator=True
+DEBUG-SAVE: 23IT5211 Sec2, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT5211 Sec2, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT5211 Sec2, Mr.A.Ravi Kishore, is_evaluator=True
+DEBUG-SAVE: 23IT5211 Sec1, Mrs.Hari Priyanka, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec1, Mrs.Hari Priyanka, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec1, Mrs.Hari Priyanka, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec3, Mr.KSN Murthy, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec3, Mr.KSN Murthy, is_evaluator=False
+DEBUG-SAVE: 23IT5211 Sec3, Mr.KSN Murthy, is_evaluator=False
+Adding counselling and sports periods...
+Section 1: Added Counselling on Tuesday 11:25 - 12:15, Sports on Wednesday 1:05 - 1:55
+Section 2: Added Counselling on Friday 1:55 - 2:45, Sports on Thursday 2:45 - 3:35
+Section 3: Added Counselling on Tuesday 9:45 - 10:35, Sports on Thursday 2:45 - 3:35
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 3rd Year (ID: 13)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 4th Year (ID: 14)
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Forbidden (CSRF token from POST incorrect.): /accounts/login/
+Forbidden (CSRF token from POST incorrect.): /accounts/login/
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 3rd Year (ID: 13)
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 2nd Year (ID: 12)
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Not Found: /favicon.ico
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 1st Year (ID: 11)
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Not Found: /api/genNum/
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Method Not Allowed (GET): /accounts/logout/
+Method Not Allowed: /accounts/logout/
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 2nd Year (ID: 12)
+Not Found: /favicon.ico
+================================================================================
+TIMETABLE GENERATION - 4-PHASE ALGORITHM (LAB > ELECTIVE > CONTINUOUS THEORY (TP) > REGULAR THEORY)
+================================================================================
+>>> Selected year: 1st Year (ID: 11)
